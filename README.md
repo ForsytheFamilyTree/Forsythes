@@ -8,7 +8,7 @@ Needed
 * Birth, marriage, other information from Thomas Forsythe, Sr. and prior
 * Look into the possibility of Thomas Forsythe, Sr living and/or being married in Virginia prior to 1785
 * Gaps in current research:
-> 1-41
+1-41
 44-45
 48-49
 51
@@ -49,6 +49,7 @@ Needed
 466-491
 * Finish researching FindAGrave.com for all persons
 * Expand newly found families (recorded in the FindAGrave Index.txt files in each person) and renumber persons
+* Create GEDCOM file
 
 Changelog
 ---------
