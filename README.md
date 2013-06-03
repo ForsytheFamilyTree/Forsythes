@@ -48,6 +48,7 @@ Needed
 445-463
 466-491
 * Finish researching FindAGrave.com for all persons
+* Finish reading Gary Morrison's site (http://freepages.genealogy.rootsweb.ancestry.com/~morrgary/)
 * Expand newly found families (recorded in the FindAGrave Index.txt files in each person) and renumber persons
 * Create GEDCOM file
 
